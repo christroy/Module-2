@@ -8,8 +8,8 @@ A website that offers fitness training services.
 * CSS
 
 ## Website
-https://lernantino.github.io/run-buddy/
-
+https://christroy.github.io/Module-2/
+REPO URL: https://github.com/christroy/Module-2
 ## Contribution
 Made with ❤️ by [Chris Podoba]
 
